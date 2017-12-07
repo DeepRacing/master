@@ -1367,16 +1367,6 @@ body {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.cid-qD59CTLhBe {
-  padding-top: 60px;
-  padding-bottom: 120px;
-}
-.cid-qD59CTLhBe H1 {
-  color: #0afdf4;
-}
-.cid-qD59CTLhBe SPAN {
-  color: #ffffff;
-}
 .cid-qD4fkLe6qj {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1470,6 +1460,12 @@ body {
 }
 .cid-qBmnic8KA1 H2 {
   text-align: center;
+}
+.cid-qD59CTLhBe H1 {
+  color: #0afdf4;
+}
+.cid-qD59CTLhBe SPAN {
+  color: #465052;
 }
 .cid-qBq64qaAop .navbar {
   padding: .5rem 0;
